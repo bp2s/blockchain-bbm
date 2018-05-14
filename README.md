@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Blockchain BBM
 
 ### Develop your first smart contract using Ethereum
@@ -33,3 +34,6 @@ https://etherscan.io/
 https://ethstats.net/
 
 
+=======
+# blockchain-bbm
+>>>>>>> f12ebe6e57d00b25fd86b00e2afe46f5aaa55ddb
